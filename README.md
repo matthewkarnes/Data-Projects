@@ -9,5 +9,5 @@ This is a repository containing data science projects I have completed for the p
    
    -[Classifying Cracked Concrete using a Neural Network](https://github.com/matthewkarnes/Data-Projects/blob/master/Concrete_CNN/Concrete_CNN.ipynb) : Creation of a convolutional neural network to classify images based on if they are of cracked or uncracked concrete.
     
-   _Tools: Scikit-Learn, Pandas, Seaborn, matplotlib, Tensorflow
+   Tools: Scikit-Learn, Pandas, Seaborn, matplotlib, Tensorflow
   
