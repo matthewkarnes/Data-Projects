@@ -11,4 +11,4 @@ This is a repository containing data science projects I have completed for the p
     
    Tools: Scikit-Learn, Pandas, Seaborn, matplotlib, Tensorflow
   
-  Note: In the case that the files do not load and give the error "Sorry, something went wrong. Reload?" please copy the files github url and paste into                https://nbviewer.jupyter.org/. This is an issue in github's backend that often occurs with Jupyter Notebooks.
+  Note: In the case that the files do not load and give the error "Sorry, something went wrong. Reload?" please copy the file's github url and paste into                https://nbviewer.jupyter.org/. This is an issue in github's backend that often occurs with Jupyter Notebooks.
