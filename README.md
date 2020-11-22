@@ -7,7 +7,7 @@ This is a repository containing data science projects I have completed for the p
    
    -[Determining Best Features to Predict Critical Temperatures](https://nbviewer.jupyter.org/github/matthewkarnes/Data-Projects/blob/master/Superconductivity_Regression/superconductivity_crit_temp_regression.ipynb) : Using different combinations of features and models to determine the best model for predicting the critical temperature of various materials.
    
-   -[Classifying Cracked Concrete using a Neural Network](https://github.com/matthewkarnes/Data-Projects/blob/master/Concrete_CNN/Concrete_CNN.ipynb) : Creation of a convolutional neural network to classify images based on if they are of cracked or uncracked concrete.
+   -[Classifying Cracked Concrete using a Neural Network](https://nbviewer.jupyter.org/github/matthewkarnes/Data-Projects/blob/master/Concrete_CNN/Concrete_CNN.ipynb) : Creation of a convolutional neural network to classify images based on if they are of cracked or uncracked concrete.
     
    Tools: Scikit-Learn, Pandas, Seaborn, matplotlib, Tensorflow
   
