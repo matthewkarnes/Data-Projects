@@ -9,7 +9,7 @@ This is a repository containing data science projects I have completed for the p
    
    -[Classifying Cracked Concrete using a Neural Network](https://nbviewer.jupyter.org/github/matthewkarnes/Data-Projects/blob/master/Concrete_CNN/Concrete_CNN.ipynb) : Creation of a convolutional neural network to classify images based on if they are of cracked or uncracked concrete.
    
-   -[Exoplanet Segmentation Model](https://nbviewer.jupyter.org/github/matthewkarnes/Data-Projects/blob/master/Exoplanet_Clustering/Exoplanet_Clustering_rework.ipynb):Successfully created an unsupervised K-Means clustering model to segment exoplanets by radius and mass, into the four types of exoplanet as defined by NASA.
+   -[Exoplanet Segmentation Model](https://nbviewer.jupyter.org/github/matthewkarnes/Data-Projects/blob/master/Exoplanet_Clustering/Exoplanet_Clustering_rework.ipynb) : Successfully created an unsupervised K-Means clustering model to segment exoplanets by radius and mass, into the four types of exoplanet as defined by NASA.
     
    Tools: Scikit-Learn, Pandas, Seaborn, matplotlib, Tensorflow
   
